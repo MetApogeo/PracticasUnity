@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Estudios Propios\\Unity\\Jueguito1Curso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEEA86A-B949-C493-0DD9-3F281922D67C}|Assembly-CSharp.csproj|e:\\estudios propios\\unity\\jueguito1curso\\assets\\tema 1\\scripts\\condicionales\\piramides.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEEA86A-B949-C493-0DD9-3F281922D67C}|Assembly-CSharp.csproj|solutionrelative:assets\\tema 1\\scripts\\condicionales\\piramides.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEEA86A-B949-C493-0DD9-3F281922D67C}|Assembly-CSharp.csproj|E:\\Estudios Propios\\Unity\\Jueguito1Curso\\assets\\tema 1\\scripts\\condicionales\\cubos10x10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEEA86A-B949-C493-0DD9-3F281922D67C}|Assembly-CSharp.csproj|solutionrelative:assets\\tema 1\\scripts\\condicionales\\cubos10x10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEEA86A-B949-C493-0DD9-3F281922D67C}|Assembly-CSharp.csproj|E:\\Estudios Propios\\Unity\\Jueguito1Curso\\assets\\tema 1\\scripts\\condicionales\\escalera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEEA86A-B949-C493-0DD9-3F281922D67C}|Assembly-CSharp.csproj|solutionrelative:assets\\tema 1\\scripts\\condicionales\\escalera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDEEA86A-B949-C493-0DD9-3F281922D67C}|Assembly-CSharp.csproj|E:\\Estudios Propios\\Unity\\Jueguito1Curso\\assets\\tema 1\\scripts\\transformaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDEEA86A-B949-C493-0DD9-3F281922D67C}|Assembly-CSharp.csproj|solutionrelative:assets\\tema 1\\scripts\\transformaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Piramides.cs",
+              "DocumentMoniker": "E:\\Estudios Propios\\Unity\\Jueguito1Curso\\Assets\\Tema 1\\Scripts\\condicionales\\Piramides.cs",
+              "RelativeDocumentMoniker": "Assets\\Tema 1\\Scripts\\condicionales\\Piramides.cs",
+              "ToolTip": "E:\\Estudios Propios\\Unity\\Jueguito1Curso\\Assets\\Tema 1\\Scripts\\condicionales\\Piramides.cs",
+              "RelativeToolTip": "Assets\\Tema 1\\Scripts\\condicionales\\Piramides.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:37:35.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cubos10x10.cs",
+              "DocumentMoniker": "E:\\Estudios Propios\\Unity\\Jueguito1Curso\\Assets\\Tema 1\\Scripts\\condicionales\\Cubos10x10.cs",
+              "RelativeDocumentMoniker": "Assets\\Tema 1\\Scripts\\condicionales\\Cubos10x10.cs",
+              "ToolTip": "E:\\Estudios Propios\\Unity\\Jueguito1Curso\\Assets\\Tema 1\\Scripts\\condicionales\\Cubos10x10.cs",
+              "RelativeToolTip": "Assets\\Tema 1\\Scripts\\condicionales\\Cubos10x10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:19:10.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transformaciones.cs",
+              "DocumentMoniker": "E:\\Estudios Propios\\Unity\\Jueguito1Curso\\Assets\\Tema 1\\Scripts\\Transformaciones.cs",
+              "RelativeDocumentMoniker": "Assets\\Tema 1\\Scripts\\Transformaciones.cs",
+              "ToolTip": "E:\\Estudios Propios\\Unity\\Jueguito1Curso\\Assets\\Tema 1\\Scripts\\Transformaciones.cs",
+              "RelativeToolTip": "Assets\\Tema 1\\Scripts\\Transformaciones.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:48:45.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Escalera.cs",
+              "DocumentMoniker": "E:\\Estudios Propios\\Unity\\Jueguito1Curso\\Assets\\Tema 1\\Scripts\\condicionales\\Escalera.cs",
+              "RelativeDocumentMoniker": "Assets\\Tema 1\\Scripts\\condicionales\\Escalera.cs",
+              "ToolTip": "E:\\Estudios Propios\\Unity\\Jueguito1Curso\\Assets\\Tema 1\\Scripts\\condicionales\\Escalera.cs",
+              "RelativeToolTip": "Assets\\Tema 1\\Scripts\\condicionales\\Escalera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:40:14.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
